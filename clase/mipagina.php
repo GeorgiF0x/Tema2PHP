@@ -6,5 +6,6 @@
     // echo "hola ".$_GET["nombre2"];
     echo "cambio en Visual code ";
     echo " cambio en github";
+    echo "cambio en los 2 desde github";
 
 ?>
